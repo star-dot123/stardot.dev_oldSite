@@ -1,0 +1,2 @@
+npx @tailwindcss/cli -i ./dist/input.css -o ./dist/style.css --watch
+npm install tailwindcss @tailwindcss/postcss postcss
